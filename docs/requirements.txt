@@ -1,0 +1,27 @@
+# Python dependencies for the JLG replication package.
+#
+# The canonical numbers reported in the paper and verified by the test
+# suite were produced under Python 3.13.2 on x86-64 (Windows 11) with
+# the exact versions pinned below. Deviations from these versions
+# (different Python build, different OS, different library versions)
+# may produce divergent floating-point behavior in the simulation; the
+# qualitative findings are expected to hold across reasonable
+# environments but the digit-exact numbers are environment-specific.
+#
+# python_requires >= 3.13.2, < 3.14
+#
+# Core dependencies (engine + sweep harness + tests):
+numpy==2.2.3
+matplotlib==3.10.0
+
+# Optional (figures only — install if you want to regenerate the maps):
+cartopy==0.25.0
+shapely==2.1.2
+pillow==11.1.0
+
+# Optional (one of the map-figure paths uses geopandas if available;
+# falls back to pure matplotlib + shapely if not):
+geopandas==1.1.3
+
+# Test runner (only needed for `pytest tests/`):
+pytest>=8.0,<9

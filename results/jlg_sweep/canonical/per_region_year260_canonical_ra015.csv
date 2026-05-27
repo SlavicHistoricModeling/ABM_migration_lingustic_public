@@ -1,0 +1,97 @@
+scenario,substrate_config,region,year_260_share_mean,year_260_share_sd,year_260_pop_mean
+slavic1,none,Carpatho-Balkan Interior,0.068528,0.040360,2306.10
+slavic1,none,Pannonian Plain,0.490158,0.270857,391.60
+slavic1,none,Aegean Littoral,0.013999,0.009519,767.90
+slavic1,none,Peloponnese,0.007709,0.016897,110.50
+slavic1,none,Albanian Highlands,0.031220,0.029404,273.50
+slavic1,none,Adriatic Coastal,0.037276,0.041082,209.00
+slavic1,none,Lower Danubian Frontier,0.854632,0.095650,749.60
+slavic1,none,unassigned,0.000000,0.000000,0.00
+slavic1,uniform,Carpatho-Balkan Interior,0.246522,0.117910,2404.90
+slavic1,uniform,Pannonian Plain,0.391347,0.242465,426.40
+slavic1,uniform,Aegean Littoral,0.042963,0.057519,850.90
+slavic1,uniform,Peloponnese,0.025152,0.036224,84.50
+slavic1,uniform,Albanian Highlands,0.105879,0.205027,248.90
+slavic1,uniform,Adriatic Coastal,0.124391,0.244413,155.20
+slavic1,uniform,Lower Danubian Frontier,0.839399,0.115152,581.40
+slavic1,uniform,unassigned,0.000000,0.000000,0.00
+slavic1,cbi_only,Carpatho-Balkan Interior,0.230215,0.089648,2197.40
+slavic1,cbi_only,Pannonian Plain,0.384673,0.238452,498.80
+slavic1,cbi_only,Aegean Littoral,0.022108,0.011413,776.30
+slavic1,cbi_only,Peloponnese,0.003520,0.007421,126.20
+slavic1,cbi_only,Albanian Highlands,0.024123,0.019167,260.90
+slavic1,cbi_only,Adriatic Coastal,0.022711,0.033726,206.50
+slavic1,cbi_only,Lower Danubian Frontier,0.893319,0.051699,693.60
+slavic1,cbi_only,unassigned,0.000000,0.000000,0.00
+slavic2,none,Carpatho-Balkan Interior,0.264267,0.102966,4330.30
+slavic2,none,Pannonian Plain,0.635309,0.207296,690.30
+slavic2,none,Aegean Littoral,0.045621,0.037961,1430.20
+slavic2,none,Peloponnese,0.038278,0.026092,138.30
+slavic2,none,Albanian Highlands,0.143719,0.189760,623.80
+slavic2,none,Adriatic Coastal,0.189114,0.200222,495.30
+slavic2,none,Lower Danubian Frontier,0.958704,0.036790,1610.30
+slavic2,none,unassigned,0.000000,0.000000,0.00
+slavic2,uniform,Carpatho-Balkan Interior,0.904873,0.088742,7047.70
+slavic2,uniform,Pannonian Plain,0.623825,0.227055,629.10
+slavic2,uniform,Aegean Littoral,0.666910,0.134599,2246.20
+slavic2,uniform,Peloponnese,0.263852,0.351024,226.60
+slavic2,uniform,Albanian Highlands,0.949531,0.083995,1110.00
+slavic2,uniform,Adriatic Coastal,0.895858,0.138536,691.40
+slavic2,uniform,Lower Danubian Frontier,0.981688,0.025037,1740.00
+slavic2,uniform,unassigned,0.000000,0.000000,0.00
+slavic2,cbi_only,Carpatho-Balkan Interior,0.898416,0.058773,6707.50
+slavic2,cbi_only,Pannonian Plain,0.687357,0.243750,652.40
+slavic2,cbi_only,Aegean Littoral,0.165025,0.097564,1660.70
+slavic2,cbi_only,Peloponnese,0.047533,0.046905,215.90
+slavic2,cbi_only,Albanian Highlands,0.313852,0.382707,635.60
+slavic2,cbi_only,Adriatic Coastal,0.339234,0.384598,507.60
+slavic2,cbi_only,Lower Danubian Frontier,0.986111,0.013962,1429.30
+slavic2,cbi_only,unassigned,0.000000,0.000000,0.00
+slavic3,none,Carpatho-Balkan Interior,0.990823,0.004937,15838.50
+slavic3,none,Pannonian Plain,0.899241,0.169053,1371.00
+slavic3,none,Aegean Littoral,0.905982,0.072508,5494.30
+slavic3,none,Peloponnese,0.761247,0.402538,602.10
+slavic3,none,Albanian Highlands,0.998163,0.001968,2871.60
+slavic3,none,Adriatic Coastal,0.974916,0.074312,1877.50
+slavic3,none,Lower Danubian Frontier,0.999283,0.000922,3062.40
+slavic3,none,unassigned,0.000000,0.000000,0.00
+slavic3,uniform,Carpatho-Balkan Interior,0.998375,0.000608,16693.50
+slavic3,uniform,Pannonian Plain,0.983669,0.018555,1431.30
+slavic3,uniform,Aegean Littoral,0.989165,0.028334,7127.40
+slavic3,uniform,Peloponnese,0.999327,0.002128,857.00
+slavic3,uniform,Albanian Highlands,0.999759,0.000611,2733.10
+slavic3,uniform,Adriatic Coastal,0.997785,0.002893,1685.60
+slavic3,uniform,Lower Danubian Frontier,0.998641,0.002228,2819.30
+slavic3,uniform,unassigned,0.000000,0.000000,0.00
+slavic3,cbi_only,Carpatho-Balkan Interior,0.998331,0.000773,17040.10
+slavic3,cbi_only,Pannonian Plain,0.981918,0.029776,1588.00
+slavic3,cbi_only,Aegean Littoral,0.891091,0.081369,5676.90
+slavic3,cbi_only,Peloponnese,0.455226,0.466209,454.00
+slavic3,cbi_only,Albanian Highlands,0.997652,0.002439,2880.60
+slavic3,cbi_only,Adriatic Coastal,0.955593,0.132585,1873.20
+slavic3,cbi_only,Lower Danubian Frontier,0.998647,0.001482,3316.70
+slavic3,cbi_only,unassigned,0.000000,0.000000,0.00
+arabic,none,Carpatho-Balkan Interior,0.056687,0.007685,4048.00
+arabic,none,Pannonian Plain,1.000000,0.000000,206.10
+arabic,none,Aegean Littoral,1.000000,0.000000,186.20
+arabic,none,Peloponnese,1.000000,0.000000,24.10
+arabic,none,Albanian Highlands,1.000000,0.000000,67.40
+arabic,none,Adriatic Coastal,1.000000,0.000000,33.70
+arabic,none,Lower Danubian Frontier,1.000000,0.000000,577.40
+arabic,none,unassigned,1.000000,0.000000,738.70
+arabic,uniform,Carpatho-Balkan Interior,0.056687,0.007685,4048.00
+arabic,uniform,Pannonian Plain,1.000000,0.000000,206.10
+arabic,uniform,Aegean Littoral,1.000000,0.000000,186.20
+arabic,uniform,Peloponnese,1.000000,0.000000,24.10
+arabic,uniform,Albanian Highlands,1.000000,0.000000,67.40
+arabic,uniform,Adriatic Coastal,1.000000,0.000000,33.70
+arabic,uniform,Lower Danubian Frontier,1.000000,0.000000,577.40
+arabic,uniform,unassigned,1.000000,0.000000,738.70
+arabic,cbi_only,Carpatho-Balkan Interior,0.056687,0.007685,4048.00
+arabic,cbi_only,Pannonian Plain,1.000000,0.000000,206.10
+arabic,cbi_only,Aegean Littoral,1.000000,0.000000,186.20
+arabic,cbi_only,Peloponnese,1.000000,0.000000,24.10
+arabic,cbi_only,Albanian Highlands,1.000000,0.000000,67.40
+arabic,cbi_only,Adriatic Coastal,1.000000,0.000000,33.70
+arabic,cbi_only,Lower Danubian Frontier,1.000000,0.000000,577.40
+arabic,cbi_only,unassigned,1.000000,0.000000,738.70

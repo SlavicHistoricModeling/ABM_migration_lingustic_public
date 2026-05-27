@@ -1,0 +1,13 @@
+scenario,substrate_config,aggregate_share_mean_across_params,aggregate_share_min,aggregate_share_max,n_cells
+slavic1,none,0.234848,0.137986,0.410046,5
+slavic1,uniform,0.369280,0.121283,0.828403,20
+slavic1,cbi_only,0.338586,0.147180,0.711252,20
+slavic2,none,0.507316,0.187019,0.904512,5
+slavic2,uniform,0.693437,0.248091,0.976853,20
+slavic2,cbi_only,0.661916,0.231004,0.966295,20
+slavic3,none,0.847551,0.549891,0.996649,5
+slavic3,uniform,0.922238,0.582089,0.999040,20
+slavic3,cbi_only,0.900904,0.579056,0.998440,20
+arabic,none,0.350767,0.350767,0.350767,1
+arabic,uniform,0.350767,0.350767,0.350767,4
+arabic,cbi_only,0.350767,0.350767,0.350767,4

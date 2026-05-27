@@ -1,0 +1,171 @@
+Fortification,Modern Country,Latitude,Longitude,Accuracy,Pop_600AD_k(50%CI)
+Singidunum,Serbia,44.822,20.452,Exact,8-15
+Taurunum,Serbia,44.851,20.405,Exact,1-3
+Sirmium,Serbia,44.967,19.611,Exact,10-20
+Bassianae,Serbia,45.009,19.912,Exact,1-3
+Acumincum,Serbia,45.142,20.239,Exact,1-3
+Cusum (Petrovaradin),Serbia,45.241,19.869,Exact,1-3
+Bononia,Bulgaria,43.993,22.878,Exact,1-3
+Ratiaria,Bulgaria,43.744,22.613,Exact,1-3
+Timacum Minus,Serbia,43.83,22.32,Exact,1-3
+Timacum Maius,Serbia,43.566,22.246,Exact,1-3
+Cuppae (Golubac),Serbia,44.65,21.633,Exact,1-3
+Viminacium,Serbia,44.74,21.18,Exact,1-3
+Pontes,Serbia,44.638,22.615,Exact,1-3
+Dierna,Romania,44.73,22.405,Exact,1-3
+Drobeta,Romania,44.643,22.657,Exact,1-3
+Egeta,Serbia,44.18,22.585,Exact,1-3
+Novae,Bulgaria,43.63,25.346,Exact,1-3
+Oescus,Bulgaria,43.71,24.466,Exact,1-3
+Castra Martis,Bulgaria,43.889,22.689,Exact,0.2-1
+Transmarisca,Bulgaria,44.05,26.606,Exact,1-3
+Durostorum,Bulgaria,44.116,27.267,Exact,1-3
+Sucidava,Romania,43.754,24.353,Exact,1-3
+Axiopolis,Romania,44.351,28.033,Exact,3-8
+Noviodunum,Romania,45.277,28.457,Exact,1-3
+Capidava,Romania,44.514,27.96,Exact,1-3
+Carsium,Romania,44.683,27.945,Exact,1-3
+Ulpiana,Kosovo,42.593,21.191,Exact,5-10
+Justiniana Prima,Serbia,42.985,21.446,Exact,8-12
+Tetrapyrgia (Taurisium),Serbia,43.0,21.33,Exact,1-3
+Naissus,Serbia,43.319,21.895,Exact,15-25
+Serdica,Bulgaria,42.698,23.323,Exact,25-40
+Philippopolis,Bulgaria,42.135,24.745,Exact,20-35
+Adrianople,Turkey,41.677,26.561,Exact,20-35
+Heraclea Lyncestis,North Macedonia,41.035,21.338,Exact,5-10
+Thessalonica,Greece,40.64,22.944,Exact,60-120
+Thermopylae Wall,Greece,38.797,22.536,Exact,0.2-1
+Isthmus Wall,Greece,37.923,22.993,Exact,0.2-1
+Cassandria Wall (Potidaea),Greece,40.189,23.303,Exact,0.2-1
+Euroea (Ioannina),Greece,39.667,20.85,Exact,1-3
+Nicopolis Epirus,Greece,38.967,20.75,Exact,5-10
+Phoenice,Albania,39.952,20.057,Exact,1-3
+Dyrrhachium,Albania,41.317,19.442,Exact,15-30
+Scupi,North Macedonia,42.02,21.432,Exact,5-10
+Pezium (unlocated),Greece,41.873,24.754,Estimated,1-3
+Martius (unlocated),Greece,43.66,22.993,Estimated,1-3
+Boulpiansus (unlocated),Albania,40.78,20.78,Estimated,1-3
+Boulpiansus,,40.29,24.331,Estimated,1-3
+Episterba,,43.006,23.54,Estimated,1-3
+Sceminites,,40.103,24.85,Estimated,1-3
+Aona,,44.162,21.062,Estimated,1-3
+Stephaniacum,,40.909,20.917,Estimated,1-3
+Argus,,41.521,22.624,Estimated,1-3
+Aliula,,42.16,21.456,Estimated,1-3
+Dyrrachin,,43.059,20.697,Estimated,1-3
+St. Sabianus,,41.461,21.832,Estimated,1-3
+Gemenus,,42.28,23.926,Estimated,1-3
+Bacuste,,40.998,22.571,Estimated,1-3
+Alistrus,,42.962,20.232,Estimated,1-3
+Patapa,,43.038,20.853,Estimated,1-3
+Epidunta,,40.325,24.744,Estimated,1-3
+Bacusta,,44.828,24.042,Estimated,1-3
+Martis (Epirus),,41.523,20.488,Estimated,0.2-1
+Eirene,,43.421,22.201,Estimated,1-3
+Speretium,,40.61,22.476,Estimated,1-3
+Aoion,,40.172,24.547,Estimated,1-3
+Streden,,41.294,23.313,Estimated,1-3
+Gynaecomites,,41.559,22.6,Estimated,1-3
+Labellus,,42.734,20.924,Estimated,1-3
+Epileum,,44.848,23.876,Estimated,1-3
+Piscinae,,44.697,24.474,Estimated,1-3
+Deuphracus,,42.989,24.609,Estimated,1-3
+Dolebin,,40.442,20.98,Estimated,1-3
+Hedonia,,40.226,21.627,Estimated,1-3
+Titiana,,41.943,21.357,Estimated,1-3
+Cithinas,,44.144,21.784,Estimated,1-3
+Ulibula,,41.405,22.713,Estimated,1-3
+Brebate,,40.705,24.011,Estimated,1-3
+Thesaurus,,40.373,24.934,Estimated,1-3
+St. Stephens,,43.861,20.994,Estimated,1-3
+Cethreon,,40.028,24.077,Estimated,1-3
+Apis,,43.534,23.645,Estimated,1-3
+Peleum,,43.856,20.37,Estimated,1-3
+Come,,41.792,20.579,Estimated,1-3
+Pacue,,44.316,23.116,Estimated,1-3
+Scydreon,,41.654,20.318,Estimated,1-3
+Antipagrae,,41.555,21.626,Estimated,1-3
+Tithyra,,43.648,23.188,Estimated,1-3
+Brebeta,,44.436,22.361,Estimated,1-3
+Bupus,,40.598,23.566,Estimated,1-3
+Endyneia,,43.804,22.806,Estimated,1-3
+Dionysus,,43.855,22.469,Estimated,1-3
+Ptocheiou,,42.614,22.138,Estimated,1-3
+Tyrcanus,,40.127,20.539,Estimated,1-3
+Capaza,,40.157,23.182,Estimated,1-3
+Pupsalus,,41.572,22.543,Estimated,1-3
+Gabraeum,,44.538,21.246,Estimated,1-3
+Dionoia,,42.052,23.778,Estimated,1-3
+Clementiana,,41.144,20.385,Estimated,1-3
+Illyrin,,41.449,20.806,Estimated,1-3
+Cilicae,,44.648,24.041,Estimated,1-3
+Argyas,,43.167,24.357,Estimated,1-3
+Therma (Epirus),,44.018,20.933,Estimated,1-3
+Amanteia,,44.463,22.697,Estimated,1-3
+Paretium,,44.037,24.48,Estimated,1-3
+Parmus,,41.59,20.55,Estimated,1-3
+Olbus,,41.14,22.136,Estimated,1-3
+Cionin,,44.09,24.304,Estimated,1-3
+Marciana,,40.035,22.554,Estimated,1-3
+Algus,,42.087,21.111,Estimated,1-3
+Ceimenus,,40.599,21.688,Estimated,1-3
+Xeropotamus,,44.715,21.616,Estimated,1-3
+Europe,,42.594,23.515,Estimated,1-3
+Chimaerae,,41.818,24.859,Estimated,1-3
+Helega,,44.812,21.259,Estimated,1-3
+Homonoia,,42.486,21.504,Estimated,1-3
+Adanum,,41.424,20.184,Estimated,1-3
+Murciara,,43.048,22.513,Estimated,1-3
+Castina,,40.257,21.393,Estimated,0.2-1
+Genysius,,44.541,21.198,Estimated,1-3
+Percus,,40.724,22.447,Estimated,1-3
+Marmarata,,44.928,21.21,Estimated,1-3
+Listria,,43.361,23.808,Estimated,1-3
+Petroniana,,41.188,23.641,Estimated,1-3
+Carmina,,41.839,23.162,Estimated,1-3
+St. Sabinus,,43.168,22.679,Estimated,1-3
+Martius (Old Epirus),,40.451,24.177,Estimated,1-3
+Pezium,,41.604,20.933,Estimated,1-3
+Onalus,,40.204,22.954,Estimated,1-3
+Justinianopolis,,43.388,20.083,Estimated,5-10
+Photice,,42.56,21.132,Estimated,1-3
+Symphygium,,43.226,20.872,Estimated,1-3
+Pronathidum,,43.455,21.934,Estimated,1-3
+Hedones,,44.684,20.688,Estimated,1-3
+Castellus,,41.705,20.567,Estimated,0.2-1
+Bulibas,,44.623,24.387,Estimated,1-3
+Palyrus,,41.29,23.3,Estimated,1-3
+Trana,,44.086,22.776,Estimated,1-3
+Poseidon,,42.648,21.209,Estimated,1-3
+Colophonia,,40.466,24.486,Estimated,1-3
+Candida,,44.502,23.166,Estimated,1-3
+Colobona,,41.695,21.746,Estimated,1-3
+Basilica Amyntou,,43.63,24.486,Estimated,1-3
+Melichiza,,44.435,23.899,Estimated,1-3
+Pascas,,43.21,20.421,Estimated,1-3
+Aulon,,40.808,24.493,Estimated,1-3
+Bolbus,,43.032,20.046,Estimated,1-3
+Brigizes,,40.507,23.318,Estimated,1-3
+Optas,,40.025,20.804,Estimated,1-3
+Pleurum,,42.744,23.459,Estimated,1-3
+Caminus,,43.26,21.121,Estimated,1-3
+Therma (Macedonia),,43.561,21.186,Estimated,1-3
+Bogas,,41.627,23.732,Estimated,1-3
+Neapolis,,43.248,24.246,Estimated,3-8
+Calarnas,,43.288,22.842,Estimated,1-3
+Museum,,40.468,21.839,Estimated,1-3
+Acremba,,41.326,21.22,Estimated,1-3
+Adrianium,,44.865,21.965,Estimated,1-3
+Edana,,44.46,23.156,Estimated,1-3
+Siclae,,43.974,22.513,Estimated,1-3
+Nymphium,,42.885,22.463,Estimated,1-3
+Metizus,,40.976,23.612,Estimated,1-3
+Argicianum,,41.404,20.122,Estimated,1-3
+Bazinus,,43.227,20.886,Estimated,1-3
+Cassopas,,44.702,24.77,Estimated,1-3
+Parthion,,44.574,21.851,Estimated,1-3
+Gentianum,,40.077,24.642,Estimated,1-3
+Priniana,,42.141,24.833,Estimated,1-3
+Thesteum,,44.818,24.265,Estimated,1-3
+Cyrrou,,41.472,21.925,Estimated,1-3
+Gourasson,,44.256,21.585,Estimated,1-3

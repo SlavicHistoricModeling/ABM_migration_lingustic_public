@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+title: >-
+  Demographic-Spatial Modeling of Slavic Linguistic Expansion in the
+  Balkans, c. 600-860 CE: Replication Package for the JLG Submission
+message: >-
+  If you use this software, data, or its outputs, please cite both
+  the accompanying journal paper and this archived replication package.
+authors:
+  - name: "Anonymous (double-blind submission; author identified post-acceptance)"
+    # affiliation: "TBD"                               # add before Zenodo publication if applicable
+type: software
+repository-code: "https://github.com/stoleskopje/ABM_migration_lingustic_public"
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-05-27"
+keywords:
+  - agent-based modeling
+  - Slavic
+  - Balkan
+  - demographic simulation
+  - language shift
+  - substrate continuity
+  - historical linguistics
+  - reproducibility
+abstract: >-
+  Clean public replication package for the JLG submission. Extends a
+  prior demographic-modeling submission (currently under review) with
+  a coordinate-anchored 18x32 Balkan grid, seven-region polygon
+  classification, proportional fortification anchoring, per-region
+  outputs, three substrate placement configurations (none / uniform /
+  cbi_only), a 144-cell parameter sweep across substrate fractions and
+  reverse-assimilation rates, paper-ready canonical tables, and five
+  publication-quality geographic map figures. The headline empirical
+  finding is that the cbi_only configuration at engine default
+  parameters (substrate_fraction = 0.30, reverse_assimilation_rate
+  = 0.030 for slavic1, fortification_anchor_fraction = 0.30)
+  qualitatively reproduces the observed Slavic-toponym regional gradient
+  (high Carpatho-Balkan Interior, low coastal destinations).
+preferred-citation:
+  type: article
+  authors:
+    - name: "Anonymous (double-blind submission)"
+  title: "TBD: JLG paper title"             # replace at acceptance
+  journal: "Journal of Linguistic Geography"
+  year: 2026                                # confirm at acceptance
+  # doi: "10.XXXX/XXXXXX"                   # add at acceptance
+# Related-work references will be added here once the companion
+# submissions reach decision; until then, see the "Related work"
+# section of README.md.

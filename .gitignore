@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build / test artefacts at the repository root produced by ad-hoc runs.
+# (The canonical results files are committed under `results/`.)
+/results_*.txt
+/results_*.csv
+/figure1.png
+/_*.txt
+
+# Per-cell sweep outputs are large CSVs regenerable from any seed-42
+# re-run. The sweep_summary.csv (load-bearing replication input) is
+# committed; the per-cell *_per_region.csv and *_cell_signatures.csv
+# files are not.
+results/jlg_sweep/*/results_*_per_region.csv
+results/jlg_sweep/*/results_*_cell_signatures.csv
+
+# OS-specific cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp

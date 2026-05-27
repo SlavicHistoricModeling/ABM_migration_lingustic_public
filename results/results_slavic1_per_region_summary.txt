@@ -1,0 +1,25 @@
+Per-region summary | Scenario: slavic1 | Runs: 10 | seed: 42 | substrate_config: cbi_only | substrate_fraction: 0.3 | non_slavic_plague_mortality: None | inheritance_age_max: None | uniform_mortality: False | migration_override: None | no_plague: False | fortification_anchor_fraction: 0.3 | fortification_pop_band: mid
+
+Per-region Slavic share at checkpoint years (mean +/- SD across runs):
+
+region                        year   0          year  25          year  50          year 100          year 150          year 200          year 260        
+Carpatho-Balkan Interior      31.51+/- 0.32%  26.96+/- 1.48%  21.34+/- 2.10%  19.14+/- 3.44%  14.66+/- 4.21%  14.34+/- 5.28%  15.08+/- 6.87%
+Pannonian Plain               31.78+/- 0.71%  29.24+/- 4.84%  23.86+/- 9.02%  19.72+/-12.94%  19.49+/-16.73%  19.88+/-21.70%  21.78+/-23.78%
+Aegean Littoral                0.30+/- 0.15%   6.65+/- 0.74%   8.84+/- 0.91%   9.12+/- 0.87%   1.88+/- 0.44%   0.38+/- 0.26%   0.08+/- 0.16%
+Peloponnese                    0.32+/- 0.51%   7.11+/- 3.71%   7.99+/- 2.58%   7.55+/- 3.42%   0.69+/- 1.00%   0.28+/- 0.88%   0.00+/- 0.00%
+Albanian Highlands             0.69+/- 0.54%  12.66+/- 2.96%  13.82+/- 2.83%  11.98+/- 2.16%   2.61+/- 1.49%   0.85+/- 1.41%   0.25+/- 0.53%
+Adriatic Coastal               0.72+/- 0.84%  10.98+/- 2.40%  12.51+/- 2.67%  13.58+/- 3.95%   1.94+/- 1.26%   0.07+/- 0.15%   0.00+/- 0.00%
+Lower Danubian Frontier       65.12+/- 0.69%  67.83+/- 1.52%  70.45+/- 3.75%  74.82+/- 4.42%  78.91+/- 5.52%  80.72+/- 7.71%  81.32+/-11.11%
+unassigned                     0.00+/- 0.00%   0.00+/- 0.00%   0.00+/- 0.00%   0.00+/- 0.00%   0.00+/- 0.00%   0.00+/- 0.00%   0.00+/- 0.00%
+
+Per-region population at checkpoint years (mean +/- SD across runs):
+
+region                        year   0              year  25              year  50              year 100              year 150              year 200              year 260            
+Carpatho-Balkan Interior       2378.1+/-   16.1   2000.8+/-   52.8   2028.4+/-   69.3   2247.9+/-  113.0   2274.0+/-  177.7   2298.0+/-  218.2   2387.3+/-  290.6
+Pannonian Plain                 434.0+/-    6.6    380.9+/-   18.8    387.5+/-   31.5    389.9+/-   73.5    420.2+/-  113.3    418.2+/-  136.6    431.1+/-  159.7
+Aegean Littoral                 776.6+/-   12.0    636.6+/-   29.1    687.0+/-   46.5    837.8+/-   94.6    865.5+/-  133.5    875.1+/-  200.6    849.5+/-  266.1
+Peloponnese                      92.1+/-    3.1     74.4+/-    9.9     77.8+/-   18.4     90.1+/-   32.3     79.1+/-   44.5     75.6+/-   60.6     71.7+/-   71.8
+Albanian Highlands              185.7+/-    8.2    159.0+/-    9.8    188.8+/-   27.2    256.7+/-   44.5    272.2+/-   48.4    253.3+/-   61.1    248.7+/-   79.8
+Adriatic Coastal                137.6+/-    2.2    116.6+/-   11.7    130.5+/-   15.3    173.0+/-   32.8    185.5+/-   54.3    184.6+/-   81.7    201.9+/-   99.0
+Lower Danubian Frontier         540.9+/-    5.3    512.2+/-   33.1    510.1+/-   48.6    518.5+/-   75.5    535.6+/-  127.6    575.4+/-  152.5    594.7+/-  192.8
+unassigned                        0.0+/-    0.0      0.0+/-    0.0      0.0+/-    0.0      0.0+/-    0.0      0.0+/-    0.0      0.0+/-    0.0      0.0+/-    0.0
